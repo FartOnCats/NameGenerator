@@ -43,7 +43,7 @@ public class main {
 			println(name() + "\n");
 			println("Gen another? (999 to quit)");
 			String read = input.nextLine();
-			if(Integer.parseInt(read) == 999){
+			if(read.equals("999")){
 				aylmao = 220;
 				//set aylmao to 220 breaking the while loop
 			}
