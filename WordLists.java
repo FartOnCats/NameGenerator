@@ -4,7 +4,7 @@
 package main;
 public class WordLists {
 	public  static String[] First = {"pizza","Speghetti","soccer","Minecraft","FootBall","Soup","Boat","BasketBall",
-			"Boxing","Eating","Sleeping","Flying","Tennis","Basment","Cauliflower"};
+			"Boxing","Eating","Sleeping","Flying","Tennis","Basement","Cauliflower"};
 	
 	public static String[] Last = {"Larry","Mom","Dad","Soma","Minion","Lover","Player","Gamer","Driver","Greg",
 			"Phill","Early-bird","Eavesdropper","Eccentric","Egghead","Enthusiast","Expert", "Extremist"
